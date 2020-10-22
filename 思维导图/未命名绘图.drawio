@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T06:51:04.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="BlsUrWTu35YQ445V0rTp" version="13.8.1" type="github"><diagram id="KWI5rsbbV26ykeZjJnp6" name="Page-1">1ZTLboMwEEW/ZpaVHFweWyCQLBqpahRVXbqxA1YNEzlOQ/r1hWAHUFqp3VSqWDA+d8b2XBuAplWz0GxfrpALBR7hDdA5eN6M0Kh9deTcEz8iPSi05DZpAGv5IVylpUfJxWGSaBCVkfsp3GJdi62ZMKY1nqZpO1TTVfesEDdgvWXqlj5LbkpLA/9+EJZCFqVd2qM06JWKuWzbyqFkHE8jRDOgqUY0fVQ1qVCde86Yvi7/Rr3uTIva/KQgfdrMN8v4Ub6QcImvDytF+J2d5Z2po+0YsgjiHJIMshDiCKLEbt+cnSmlqVQbzYAmO6lUigr1RaHeLCWx3/KD0fgmRgohQeBHXQXWZsT9tHtaftuO25vQRjQjZNtbCKyE0ec2xaqhddrdNTs8jQ7O3atydGYuj9m7UlwnHtxsA2voL8wN6RfuhhDlEM+7IIkhDv+Nu17wZ/a2w+G7uGij3wvNPgE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-22T06:53:10.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Kzrfv6z2HVWsK9k94zRu" version="13.8.1" type="github">
+  <diagram id="KWI5rsbbV26ykeZjJnp6" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CRUDUHAPiY07HobLMl0d-1" value="课程" style="html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" parent="1" vertex="1">
+          <mxGeometry x="70" y="50" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CRUDUHAPiY07HobLMl0d-73" value="班级" style="html=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" parent="1" vertex="1">
+          <mxGeometry x="260" y="50" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
