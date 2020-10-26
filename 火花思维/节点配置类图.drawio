@@ -1,44 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T07:52:25.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="tN98NsAo1JWdXanAWA0K" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T08:07:52.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="q81rHKU5jd2IXAQv1-3B" version="13.8.1" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wr13zBOJDpBY8zEouREP-119" value="NodeEvenConfig(节点事件配置)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="121" y="80" width="240" height="312" as="geometry" />
+          <mxGeometry x="121" y="80" width="290" height="286" as="geometry">
+            <mxRectangle x="121" y="80" width="200" height="26" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wr13zBOJDpBY8zEouREP-120" value="名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
-          <mxGeometry y="26" width="240" height="26" as="geometry" />
+          <mxGeometry y="26" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="wr13zBOJDpBY8zEouREP-136" value="客户端类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
-          <mxGeometry y="52" width="240" height="26" as="geometry" />
+          <mxGeometry y="52" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="wr13zBOJDpBY8zEouREP-137" value="提醒发送(1:push,2:微信,3:开屏,4:弹屏)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
-          <mxGeometry y="78" width="240" height="26" as="geometry" />
+          <mxGeometry y="78" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="wr13zBOJDpBY8zEouREP-121" value="发送时间点类型(即时，延时)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
-          <mxGeometry y="104" width="240" height="26" as="geometry" />
+          <mxGeometry y="104" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="wr13zBOJDpBY8zEouREP-141" value="延迟多久" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
-          <mxGeometry y="130" width="240" height="26" as="geometry" />
+          <mxGeometry y="130" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="wr13zBOJDpBY8zEouREP-140" value="开始时间（生效时间）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
-          <mxGeometry y="156" width="240" height="26" as="geometry" />
+          <mxGeometry y="156" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="wr13zBOJDpBY8zEouREP-138" value="结束时间（失效时间）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
-          <mxGeometry y="182" width="240" height="26" as="geometry" />
+          <mxGeometry y="182" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="wr13zBOJDpBY8zEouREP-139" value="事件类型（用户试听预约，下课，上课）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
-          <mxGeometry y="208" width="240" height="26" as="geometry" />
+        <mxCell id="wr13zBOJDpBY8zEouREP-139" value="事件类型（用户试听预约，下课，上课）" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
+          <mxGeometry y="208" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="wr13zBOJDpBY8zEouREP-143" value="+ item: attribute" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
-          <mxGeometry y="234" width="240" height="26" as="geometry" />
+        <mxCell id="wr13zBOJDpBY8zEouREP-143" value="是否需要配置条件（上游已经过滤过，直接发送消息）" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
+          <mxGeometry y="234" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="wr13zBOJDpBY8zEouREP-144" value="+ item: attribute" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
-          <mxGeometry y="260" width="240" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="wr13zBOJDpBY8zEouREP-122" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
-          <mxGeometry y="286" width="240" height="26" as="geometry" />
+        <mxCell id="wr13zBOJDpBY8zEouREP-122" value="对象间的逻辑运算符（与 &amp;&amp; ，或 ||）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wr13zBOJDpBY8zEouREP-119">
+          <mxGeometry y="260" width="290" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
