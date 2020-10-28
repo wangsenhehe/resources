@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T09:35:25.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="K_3ysJepEBK3xy_Lz6zx" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T09:41:44.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qdHNAuQZcR-Xl8thLjdy" version="13.8.5" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5RnivFQOtMV0s0rQjsaU-1" value="节点配置" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="110" height="50" as="geometry" />
+          <mxGeometry x="140" y="140" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-2" value="选中属性" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
-          <mxGeometry x="400" y="450" width="110" height="50" as="geometry" />
+          <mxGeometry x="430" y="480" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-3" value="节点过滤条件" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
-          <mxGeometry x="710" y="400" width="110" height="50" as="geometry" />
+          <mxGeometry x="680" y="440" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-4" value="过滤事件条件" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
-          <mxGeometry x="680" y="290" width="110" height="50" as="geometry" />
+          <mxGeometry x="530" y="300" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-5" value="过滤用户条件" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="110" height="50" as="geometry" />
+          <mxGeometry x="520" y="150" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-6" value="推送信息" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
-          <mxGeometry x="230" y="480" width="110" height="50" as="geometry" />
+          <mxGeometry x="200" y="470" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-7" value="延迟计划" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
-          <mxGeometry x="170" y="310" width="110" height="50" as="geometry" />
+          <mxGeometry x="190" y="280" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
