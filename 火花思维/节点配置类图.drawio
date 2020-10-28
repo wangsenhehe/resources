@@ -1,56 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T09:21:05.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="y_Ps4EvuTnRVhG-R9q8t" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T09:35:22.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="QbQQTCQoOxghmV8pEXqw" version="13.8.5" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wr13zBOJDpBY8zEouREP-146" value="节点配置" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="30" y="50" width="330" height="52" as="geometry">
-            <mxRectangle x="520" y="80" width="90" height="26" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="5RnivFQOtMV0s0rQjsaU-1" value="节点配置" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wr13zBOJDpBY8zEouREP-149" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="wr13zBOJDpBY8zEouREP-146" vertex="1">
-          <mxGeometry y="26" width="330" height="26" as="geometry" />
+        <mxCell id="5RnivFQOtMV0s0rQjsaU-2" value="选中属性" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7sdgW14QquR0sImX1h_E-6" value="节点延迟计划" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="390" y="50" width="330" height="52" as="geometry">
-            <mxRectangle x="520" y="80" width="90" height="26" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="5RnivFQOtMV0s0rQjsaU-3" value="节点过滤条件" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
+          <mxGeometry x="710" y="400" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7sdgW14QquR0sImX1h_E-7" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7sdgW14QquR0sImX1h_E-6">
-          <mxGeometry y="26" width="330" height="26" as="geometry" />
+        <mxCell id="5RnivFQOtMV0s0rQjsaU-4" value="过滤事件条件" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
+          <mxGeometry x="680" y="290" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7sdgW14QquR0sImX1h_E-12" value="节点推送信息" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="330" height="52" as="geometry">
-            <mxRectangle x="520" y="80" width="90" height="26" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="5RnivFQOtMV0s0rQjsaU-5" value="过滤用户条件" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7sdgW14QquR0sImX1h_E-13" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7sdgW14QquR0sImX1h_E-12">
-          <mxGeometry y="26" width="330" height="26" as="geometry" />
+        <mxCell id="5RnivFQOtMV0s0rQjsaU-6" value="推送信息" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7sdgW14QquR0sImX1h_E-14" value="用户过滤条件" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="330" height="52" as="geometry">
-            <mxRectangle x="520" y="80" width="90" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7sdgW14QquR0sImX1h_E-15" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7sdgW14QquR0sImX1h_E-14">
-          <mxGeometry y="26" width="330" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="7sdgW14QquR0sImX1h_E-16" value="事件过滤条件" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="30" y="300" width="330" height="52" as="geometry">
-            <mxRectangle x="520" y="80" width="90" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7sdgW14QquR0sImX1h_E-17" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7sdgW14QquR0sImX1h_E-16">
-          <mxGeometry y="26" width="330" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="7sdgW14QquR0sImX1h_E-18" value="节点筛选条件" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="400" y="290" width="330" height="52" as="geometry">
-            <mxRectangle x="520" y="80" width="90" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7sdgW14QquR0sImX1h_E-19" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7sdgW14QquR0sImX1h_E-18">
-          <mxGeometry y="26" width="330" height="26" as="geometry" />
+        <mxCell id="5RnivFQOtMV0s0rQjsaU-7" value="延迟计划" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
