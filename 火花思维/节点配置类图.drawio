@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T09:58:43.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Xbt4u5Q1OIbG2Q3DQspZ" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T11:17:49.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="NdHGXjMVz4q7AEn28D1n" version="13.8.5" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1221" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,17 +7,22 @@
         <mxCell id="5RnivFQOtMV0s0rQjsaU-1" value="节点配置" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
           <mxGeometry x="480" y="210" width="160" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="5RnivFQOtMV0s0rQjsaU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5RnivFQOtMV0s0rQjsaU-2" target="5RnivFQOtMV0s0rQjsaU-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-2" value="选中属性" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
-          <mxGeometry x="940" y="430" width="160" height="110" as="geometry" />
+          <mxGeometry x="960" y="430" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-3" value="选中条件" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
           <mxGeometry x="640" y="430" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-4" value="过滤事件条件" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
-          <mxGeometry x="920" y="90" width="160" height="110" as="geometry" />
+          <mxGeometry x="1085" y="180" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-5" value="过滤用户条件" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
-          <mxGeometry x="710" y="90" width="160" height="110" as="geometry" />
+          <mxGeometry x="835" y="180" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-6" value="推送信息" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;imageWidth=200;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="160" height="110" as="geometry" />
@@ -51,6 +56,18 @@
         </mxCell>
         <mxCell id="5RnivFQOtMV0s0rQjsaU-23" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="5RnivFQOtMV0s0rQjsaU-22">
           <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RnivFQOtMV0s0rQjsaU-28" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5RnivFQOtMV0s0rQjsaU-2" target="5RnivFQOtMV0s0rQjsaU-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="790" y="360" as="sourcePoint" />
+            <mxPoint x="950" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RnivFQOtMV0s0rQjsaU-29" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5RnivFQOtMV0s0rQjsaU-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1040" y="440" as="sourcePoint" />
+            <mxPoint x="925" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
